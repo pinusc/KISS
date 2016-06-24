@@ -133,5 +133,6 @@
     <string name="restart_warn">Do you really want to restart KISS? If KISS is not your default launcher the app will simply quit.</string>
 
     <string name="items_title">%d items</string>
+    <string name="math_default">42</string>
 
 </resources>
